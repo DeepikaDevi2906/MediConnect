@@ -1,4 +1,7 @@
 MediConnect
+
+
+
 🏥 Doctor Appointment System
 A full-stack web application that allows patients to book appointments with doctors, doctors to manage their schedules, and admins to oversee the entire system. Built using ReactJS, Flask, SQLite, and Flask-SocketIO for real-time communication.
 
